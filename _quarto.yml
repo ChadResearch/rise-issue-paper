@@ -53,6 +53,15 @@ book:
   repo-actions: [edit]
   downloads: [pdf, epub, docx]
   sharing: [twitter, facebook]
+  navbar:
+    right:
+      - icon: google
+        href: https://drive.google.com/drive/folders/10BeaOMwS_kDT2bd16tTEk9W-ucbO7jDs
+        text: Google Drive
+        aria-label: Google Drive
+      - icon: github
+        href: https://github.com/ChadResearch/rise-issue-paper
+        aria-label: GitHub
   page-navigation: true
   page-footer:
     center: "Copyright 2025, Chungil Chae"
