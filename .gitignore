@@ -1,0 +1,6 @@
+# Only push rendered docs/ to GitHub
+# Ignore all source files
+*
+!docs/
+!docs/**
+!.gitignore
